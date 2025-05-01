@@ -147,7 +147,7 @@ MIT License. Feel free to fork and use with attribution.
 
 ## 🙋‍♂️ Author
 
-**Shiva Raghav** – [GitHub](https://github.com/shivarag200701) | [LinkedIn](#)
+**Shiva Raghav** – [GitHub](https://github.com/shivarag200701) | [LinkedIn](https://www.linkedin.com/in/shiva-raghav/)
 
 > *Passionate about building beautiful, intelligent, and impactful software. Ping me if you're working on space-tech, backend systems, or AI-enhanced apps.*
 
