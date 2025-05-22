@@ -146,12 +146,12 @@ This will:
 - ISS-vs-all satellite scanning  
 - Database alert storage  
 
-### 🔄 Phase 3 – Dashboard UI
+### ✅ Phase 3 – Dashboard UI
 - Search by NORAD ID  
 - Show latest alerts + predictions  
 - Add severity badges + filtering  
 
-### 🔄 Phase 4 – Orbit Visualizations
+### ✅ Phase 4 – Orbit Visualizations
 - CesiumJS + satellite paths  
 - Interactive altitude/time explorer  
 
